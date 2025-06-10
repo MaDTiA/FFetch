@@ -18,7 +18,7 @@ FFetch is a batch script that automatically downloads, extracts, and installs th
 
 ## Installation
 
-1. Download the `install-ffmpeg.bat` file from this repository.
+1. Download the `FFetch.bat` or  `FFetch.exe` file from this repository.
 2. Right-click on the file and select "Run as administrator".
 3. Follow the prompts. The script will:
 
