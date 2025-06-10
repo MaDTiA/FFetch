@@ -10,7 +10,6 @@ FFetch is a batch script that automatically downloads, extracts, and installs th
 * Extracts using 7-Zip
 * Installs to `C:\Program Files\ffmpeg`
 * Adds FFmpeg to your system PATH
-* Opens the author's GitHub and website upon completion
 
 ## Requirements
 
@@ -26,7 +25,6 @@ FFetch is a batch script that automatically downloads, extracts, and installs th
    * Download the latest FFmpeg full release archive
    * Extract it to the target location
    * Add FFmpeg to your system PATH
-   * Open your browser to visit the author's pages
 
 ## After Installation
 
