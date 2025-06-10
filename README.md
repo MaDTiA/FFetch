@@ -1,4 +1,7 @@
 # FFetch - FFmpeg Installer for Windows
+<p align="center">
+  <img src="https://i.ibb.co/WvpzrtLG/FFetch-FFmpeg-Installer-for-Windows.png" alt="FFetch Logo" width="250"/>
+</p>
 
 A simple and reliable way to install FFmpeg on Windows with minimal effort.
 
