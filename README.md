@@ -69,7 +69,7 @@ That’s it, you're now ready for hardware accelerated encoding without compilin
 
 ## 🙌 Author
 
-Made with 💻 by **MaDTiA**
+Made with 😍 by **MaDTiA**
 <br>
 🌐 [https://github.com/MaDTiA](https://github.com/MaDTiA)
 <br>
