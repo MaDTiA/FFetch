@@ -71,6 +71,7 @@ That’s it — you're now ready for hardware-accelerated encoding without compi
 
 Made with 💻 by **MaDTiA**
 🌐 [https://github.com/MaDTiA](https://github.com/MaDTiA)
+<br>
 🧠 [https://madtia.cc](https://madtia.cc)
 
 ---
