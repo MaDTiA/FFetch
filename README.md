@@ -76,5 +76,3 @@ Made with 💻 by **MaDTiA**
 🧠 [https://madtia.cc](https://madtia.cc)
 
 ---
-
-Let me know if you want a matching `CHANGELOG.md`, GitHub Actions auto-build, or a `ffetch.exe` builder added to the repo!
