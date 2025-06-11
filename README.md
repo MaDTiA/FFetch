@@ -1,7 +1,3 @@
-Nice write-up! Here's your improved `README.md` (or GitHub description) with the **GPU support** note clearly stated in a clean and professional tone, while still keeping your personality and style:
-
----
-
 # FFetch - FFmpeg Installer for Windows
 
 <p align="center">
