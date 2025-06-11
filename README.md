@@ -63,13 +63,14 @@ ffmpeg -i input.mp4 output.avi
 ffmpeg -hwaccel cuda -i input.mp4 -c:v h264_nvenc output.mp4
 ```
 
-That’s it — you're now ready for hardware-accelerated encoding without compiling a single line.
+That’s it, you're now ready for hardware accelerated encoding without compiling a single line.
 
 ---
 
 ## 🙌 Author
 
 Made with 💻 by **MaDTiA**
+<br>
 🌐 [https://github.com/MaDTiA](https://github.com/MaDTiA)
 <br>
 🧠 [https://madtia.cc](https://madtia.cc)
