@@ -67,6 +67,12 @@ That’s it, you're now ready for hardware accelerated encoding without compilin
 
 ---
 
+## ✅ AntiVirus Scan Result
+
+* [VirusTotal Scan Result](https://www.virustotal.com/gui/file/52b5aba8d0ac3c7817a0813a197d5e13e457ef5978a43c4ba57eb46e824724fb?nocache=1)
+* 
+---
+
 ## 🙌 Author
 
 Made with 😍 by **MaDTiA**
